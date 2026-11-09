@@ -6,7 +6,7 @@ text{font-family:Consolas,"Liberation Mono",monospace;white-space:pre}.key{fill:
 <rect width="1018" height="520" rx="16" fill="#0d1117"/><rect x="1" y="1" width="1016" height="518" rx="15" fill="none" stroke="#30363d"/>
 <rect x="15" y="15" width="988" height="490" rx="14" fill="#161b22"/>
 <circle cx="38" cy="38" r="5" fill="#ff5f56"/><circle cx="56" cy="38" r="5" fill="#ffbd2e"/><circle cx="74" cy="38" r="5" fill="#27c93f"/>
-<text x="96" y="43" font-size="13" class="muted">atal@tanwar / profile — zsh</text>
+<text x="96" y="43" font-size="13" class="muted">ataltanwar / profile — zsh</text>
 <text x="35" y="91" font-size="13" fill="#8b949e">              .-------------------.</text>
 <text x="35" y="108" font-size="13" fill="#8b949e">             /  .---------------.  \</text>
 <text x="35" y="125" font-size="13" fill="#8b949e">            |  |   <tspan fill="#58a6ff"> _____ _____ </tspan>  |  |</text>
@@ -26,7 +26,7 @@ text{font-family:Consolas,"Liberation Mono",monospace;white-space:pre}.key{fill:
 <text x="35" y="422" font-size="12" class="muted">Building useful things for the web.</text>
 <text x="35" y="445" font-size="12" class="muted">Jaipur, India  ·  Open to learning &amp; building</text>
 <text x="35" y="478" font-size="13" fill="#3fb950">$ <tspan fill="#58a6ff">_</tspan></text>
-<text x="430" y="83" font-size="17"><tspan class="title">atal@tanwar</tspan><tspan fill="#616e7f">  ───────────────────────────────────────────</tspan></text>
+<text x="430" y="83" font-size="17"><tspan class="title">ataltanwar</tspan><tspan fill="#616e7f">  ───────────────────────────────────────────</tspan></text>
 <text x="430" y="112" font-size="14"><tspan class="muted">. </tspan><tspan class="key">Role</tspan><tspan class="muted">: ......................... </tspan><tspan class="value">Full-Stack Developer</tspan></text>
 <text x="430" y="136" font-size="14"><tspan class="muted">. </tspan><tspan class="key">Focus</tspan><tspan class="muted">: ....................... </tspan><tspan class="value">MERN, AI Integration, UI/UX</tspan></text>
 <text x="430" y="160" font-size="14"><tspan class="muted">. </tspan><tspan class="key">Frontend</tspan><tspan class="muted">: .................... </tspan><tspan class="value">React, JavaScript, Tailwind</tspan></text>
@@ -43,5 +43,4 @@ text{font-family:Consolas,"Liberation Mono",monospace;white-space:pre}.key{fill:
 <text x="430" y="434" font-size="13"><tspan class="key">Email</tspan><tspan class="muted">: ............................ </tspan><tspan class="value">ataltanwarr@gmail.com</tspan></text>
 <text x="430" y="456" font-size="13"><tspan class="key">LinkedIn</tspan><tspan class="muted">: ......................... </tspan><tspan class="value">linkedin.com/in/ataltanwar</tspan></text>
 <text x="430" y="478" font-size="13"><tspan class="key">Portfolio</tspan><tspan class="muted">: ........................ </tspan><tspan class="value">ataltanwar.vercel.app</tspan></text>
-<text x="430" y="496" font-size="12" class="green">&gt; Always learning. Always building. <tspan fill="#58a6ff">_</tspan></text>
 </svg>
