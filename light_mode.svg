@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1018" height="390" viewBox="0 0 1018 390"><style>text{font-family:ui-monospace,Consolas,monospace}.title{fill:#bc4c00;font-weight:700;font-size:20px}.key{fill:#0969da;font-size:14px;font-weight:700}.value{fill:#24292f;font-size:15px}.muted{fill:#667085;font-size:13px}.heading{fill:#24292f;font-size:30px;font-weight:700}.sub{fill:#0969da;font-size:16px}</style><rect width="1018" height="390" rx="16" fill="#fff"/><rect x="1" y="1" width="1016" height="388" rx="15" fill="none" stroke="#d0d7de"/><rect x="22" y="22" width="350" height="346" rx="12" fill="#f6f8fa" stroke="#d0d7de"/><circle cx="48" cy="48" r="5" fill="#ff5f56"/><circle cx="66" cy="48" r="5" fill="#ffbd2e"/><circle cx="84" cy="48" r="5" fill="#27c93f"/><text x="108" y="53" class="muted">atal@tanwar: ~</text><rect x="57" y="93" width="280" height="190" rx="12" fill="#fff" stroke="#d0d7de"/><circle cx="197" cy="176" r="59" fill="#fff" stroke="#0969da" stroke-width="3"/><text x="197" y="194" text-anchor="middle" font-size="52" font-weight="800" fill="#24292f">AT</text><text x="197" y="258" text-anchor="middle" class="muted">BUILDING FOR THE WEB</text><text x="48" y="320" class="muted">$ whoami</text><text x="48" y="344" font-size="16" font-weight="700" fill="#1a7f37">atal_tanwar_</text><text x="410" y="52" class="title">atal@tanwar</text><text x="410" y="78" class="muted">-----------------------------------------------------------------------</text><text x="410" y="111" class="heading">ATAL TANWAR</text><text x="410" y="132" class="sub">Full-Stack Developer / AI Enthusiast</text><text x="485" y="165" class="key">ROLE</text><text x="600" y="165" class="value">Full-Stack Developer</text><text x="485" y="200" class="key">FOCUS</text><text x="600" y="200" class="value">MERN · AI Integrations · Product UI</text><text x="485" y="235" class="key">BUILD</text><text x="600" y="235" class="value">React · Node.js · Express · MongoDB</text><text x="485" y="270" class="key">ALSO</text><text x="600" y="270" class="value">Python · FastAPI · PostgreSQL · Supabase</text><text x="485" y="305" class="key">TOOLS</text><text x="600" y="305" class="value">Git · GitHub · Figma · Vercel</text><text x="485" y="340" class="key">EDUCATION</text><text x="600" y="340" class="value">B.Tech Computer Science · 2027</text><text x="410" y="356" class="muted">-----------------------------------------------------------------------</text><text x="410" y="377" class="muted">$ turning ideas into useful digital experiences</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1018" height="520" viewBox="0 0 1018 520" role="img" aria-labelledby="t d">
+<title id="t">Atal Tanwar — Developer Terminal</title><desc id="d">A terminal-style developer profile with ASCII artwork, technology stack, interests and contact information.</desc>
+<style>
+text{font-family:Consolas,"Liberation Mono",monospace;white-space:pre}.key{fill:#e05a00}.value{fill:#9ccaff}.muted{fill:#7d8794}.green{fill:#238636}.title{fill:#e05a00;font-weight:bold}
+</style>
+<rect width="1018" height="520" rx="16" fill="#fff"/><rect x="1" y="1" width="1016" height="518" rx="15" fill="none" stroke="#d0d7de"/>
+<rect x="15" y="15" width="988" height="490" rx="14" fill="#f6f8fa"/>
+<circle cx="38" cy="38" r="5" fill="#ff5f56"/><circle cx="56" cy="38" r="5" fill="#ffbd2e"/><circle cx="74" cy="38" r="5" fill="#27c93f"/>
+<text x="96" y="43" font-size="13" class="muted">atal@tanwar / profile — zsh</text>
+<text x="35" y="91" font-size="13" fill="#6e7781">              .-------------------.</text>
+<text x="35" y="108" font-size="13" fill="#6e7781">             /  .---------------.  \</text>
+<text x="35" y="125" font-size="13" fill="#6e7781">            |  |   <tspan fill="#0969da"> _____ _____ </tspan>  |  |</text>
+<text x="35" y="142" font-size="13" fill="#6e7781">            |  |  <tspan fill="#0969da">|  _  |  |  |</tspan> |  |</text>
+<text x="35" y="159" font-size="13" fill="#6e7781">            |  |  <tspan fill="#0969da">| |_| |__|  |</tspan> |  |</text>
+<text x="35" y="176" font-size="13" fill="#6e7781">            |  |  <tspan fill="#0969da">|_____|_____|</tspan> |  |</text>
+<text x="35" y="193" font-size="13" fill="#6e7781">            |  '---------------'  |</text>
+<text x="35" y="210" font-size="13" fill="#6e7781">            |   <tspan fill="#238636">[  AT  ]</tspan>  <tspan fill="#e05a00">[&gt;_]</tspan>    |</text>
+<text x="35" y="227" font-size="13" fill="#6e7781">            |                     |</text>
+<text x="35" y="244" font-size="13" fill="#6e7781">       .----'---------------------'----.</text>
+<text x="35" y="261" font-size="13" fill="#6e7781">      /_________________________________\</text>
+<text x="35" y="278" font-size="13" fill="#6e7781">             /  /             \  \</text>
+<text x="35" y="295" font-size="13" fill="#6e7781">            /__/               \__\</text>
+<text x="35" y="343" font-size="13" class="muted">$ whoami</text>
+<text x="35" y="365" font-size="18" font-weight="bold" fill="#238636">ATAL TANWAR</text>
+<text x="35" y="390" font-size="13" fill="#0969da">FULL-STACK DEVELOPER</text>
+<text x="35" y="422" font-size="12" class="muted">Building useful things for the web.</text>
+<text x="35" y="445" font-size="12" class="muted">Jaipur, India  ·  Open to learning &amp; building</text>
+<text x="35" y="478" font-size="13" fill="#238636">$ <tspan fill="#0969da">_</tspan></text>
+<text x="430" y="83" font-size="17"><tspan class="title">atal@tanwar</tspan><tspan fill="#8c959f">  ───────────────────────────────────────────</tspan></text>
+<text x="430" y="112" font-size="14"><tspan class="muted">. </tspan><tspan class="key">Role</tspan><tspan class="muted">: ......................... </tspan><tspan class="value">Full-Stack Developer</tspan></text>
+<text x="430" y="136" font-size="14"><tspan class="muted">. </tspan><tspan class="key">Focus</tspan><tspan class="muted">: ....................... </tspan><tspan class="value">MERN, AI Integration, UI/UX</tspan></text>
+<text x="430" y="160" font-size="14"><tspan class="muted">. </tspan><tspan class="key">Frontend</tspan><tspan class="muted">: .................... </tspan><tspan class="value">React, JavaScript, Tailwind</tspan></text>
+<text x="430" y="184" font-size="14"><tspan class="muted">. </tspan><tspan class="key">Backend</tspan><tspan class="muted">: ..................... </tspan><tspan class="value">Node.js, Express, FastAPI</tspan></text>
+<text x="430" y="208" font-size="14"><tspan class="muted">. </tspan><tspan class="key">Database</tspan><tspan class="muted">: ................... </tspan><tspan class="value">MongoDB, PostgreSQL, Supabase</tspan></text>
+<text x="430" y="232" font-size="14"><tspan class="muted">. </tspan><tspan class="key">Languages</tspan><tspan class="muted">: .................. </tspan><tspan class="value">JavaScript, Python, C</tspan></text>
+<text x="430" y="256" font-size="14"><tspan class="muted">. </tspan><tspan class="key">Tools</tspan><tspan class="muted">: ........................ </tspan><tspan class="value">Git, GitHub, Figma, Vercel</tspan></text>
+<text x="430" y="280" font-size="14"><tspan class="muted">. </tspan><tspan class="key">Interests</tspan><tspan class="muted">: ................... </tspan><tspan class="value">AI Apps, Developer Tools, Design</tspan></text>
+<text x="430" y="311" font-size="14" class="muted">. </text><text x="445" y="311" font-size="14" class="title">Selected Work</text><text x="570" y="311" font-size="14" class="muted">────────────────────────────────────</text>
+<text x="430" y="335" font-size="13"><tspan class="key">01</tspan><tspan class="value">  PRAMAAN  —  Digital field-test companion</tspan></text>
+<text x="430" y="357" font-size="13"><tspan class="key">02</tspan><tspan class="value">  SmartPack — AI packaging recommendations</tspan></text>
+<text x="430" y="379" font-size="13"><tspan class="key">03</tspan><tspan class="value">  DummyData — Workforce test-data generator</tspan></text>
+<text x="430" y="410" font-size="14"><tspan class="muted">. </tspan><tspan class="title">Contact</tspan><tspan class="muted"> ─────────────────────────────────────────</tspan></text>
+<text x="430" y="434" font-size="13"><tspan class="key">Email</tspan><tspan class="muted">: ............................ </tspan><tspan class="value">ataltanwarr@gmail.com</tspan></text>
+<text x="430" y="456" font-size="13"><tspan class="key">LinkedIn</tspan><tspan class="muted">: ......................... </tspan><tspan class="value">linkedin.com/in/ataltanwar</tspan></text>
+<text x="430" y="478" font-size="13"><tspan class="key">Portfolio</tspan><tspan class="muted">: ........................ </tspan><tspan class="value">ataltanwar.vercel.app</tspan></text>
+<text x="430" y="496" font-size="12" class="green">&gt; Always learning. Always building. <tspan fill="#0969da">_</tspan></text>
+</svg>
